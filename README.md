@@ -1,16 +1,30 @@
-### Hi there 👋
+### ሰላም, I'm Bemhreth                
 
-<!--
-**Bemhreth/Bemhreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Bemhreth Gezahegn. I am a Software Engineering student.
+Currently I'm working on Flutter and ML. I'm based in 🇪🇹
 
-Here are some ideas to get you started:
+<a href="https://github.com/Bemhreth">
+  <img width="32" align="left"
+     alt="My GitHub profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+</a>
+<a href="https://medium.com/@bemgez.bg">
+  <img width="32" align="left"
+     alt="My Medium profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.twitter.com/BemhretGezahegn">
+  <img width="32" align="left"
+     alt="My Instagram profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+</a>
+<a href="https://t.me/Bemhreth">
+  <img width="32" align="left"
+     alt="My Instagram profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
+</a>
+<br><br>
+
+<hr/>
+
