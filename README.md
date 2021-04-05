@@ -1,12 +1,12 @@
 ### ሰላም, I'm Bemhreth                
 
  My name is Bemhreth Gezahegn. I am a Software Engineering student.
-Currently I'm working on Flutter and ML. I'm based in 🇪🇹
+Currently I'm working on Flutter and ML. I'm based in 🇪🇹. 
 
-<a href="https://github.com/Bemhreth">
+<a href="https://www.linkedin.com/in/bemhreth-gezahegn-8a7a20173">
   <img width="32" align="left"
-     alt="My GitHub profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+     alt="My Linkedin profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://medium.com/@bemgez.bg">
   <img width="32" align="left"
