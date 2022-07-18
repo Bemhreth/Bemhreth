@@ -1,6 +1,6 @@
 ### ሰላም, I'm Bemhreth                
 
- My name is Bemhreth Gezahegn. I am a Software Engineering student.
+ My name is Bemhreth Gezahegn. I am a Software Engineer.
 Currently I'm working on Flutter and ML. I'm based in 🇪🇹. 
 
 <a href="https://www.linkedin.com/in/bemhreth-gezahegn-8a7a20173">
