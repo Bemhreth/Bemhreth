@@ -3,7 +3,7 @@
  My name is Bemhreth Gezahegn. I am a Software Engineer.
 Currently I'm working on web3, Flutter and ML. I'm based in 🇪🇹. 
 
-<a href="https://www.linkedin.com/in/bemhreth-gezahegn-8a7a20173">
+<a href="https://www.linkedin.com/in/bemhreth">
   <img width="32" align="left"
      alt="My Linkedin profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
@@ -16,12 +16,12 @@ Currently I'm working on web3, Flutter and ML. I'm based in 🇪🇹.
 
 <a href="https://www.twitter.com/BemhretGezahegn">
   <img width="32" align="left"
-     alt="My Instagram profile"
+     alt="My Twitter profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 <a href="https://t.me/Bemhreth">
   <img width="32" align="left"
-     alt="My Instagram profile"
+     alt="My telegram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
 </a>
 <br><br>
